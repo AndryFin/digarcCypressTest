@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://www.digarc.com/",
+  "experimentalFetchPolyfill": true,
+  "responseTimeout": 1000,
+  "chromeWebSecurity": false
+}
